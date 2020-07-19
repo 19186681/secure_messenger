@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>BuddyTalk</title>
+        <vendor>Zishan Ali Khan</vendor>
+        <homepage href=""/>
+        <description>BuddyTalk Instant Messanger</description>
+        <description kind="short">BuddyTalk</description>
+
+
+    </information>
+<security>
+<all-permissions/>
+</security>
+    <resources>
+<j2se version="1.5+"/>
+<jar eager="true" href="BuddyTalk.jar" main="true"/>
+
+
+    <jar href="lib/beansbinding-1.2.1.jar"/>
+<jar href="lib/swingx-beaninfo-1.6.2.jar"/>
+<jar href="lib/swingx-core-1.6.2.jar"/>
+<jar href="lib/smack.jar"/>
+<jar href="lib/smackx-debug.jar"/>
+<jar href="lib/smackx-jingle.jar"/>
+<jar href="lib/smackx.jar"/>
+</resources>
+    <application-desc main-class="login">
+
+    </application-desc>
+</jnlp>

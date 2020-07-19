@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: lib/beansbinding-1.2.1.jar lib/swingx-beaninfo-1.6.2.jar l
+ ib/swingx-core-1.6.2.jar lib/smack.jar lib/smackx-debug.jar lib/smack
+ x-jingle.jar lib/smackx.jar
+Created-By: 14.3-b01 (Sun Microsystems Inc.)
+Main-Class: login
+
+Name: termsOfUse.class
+SHA1-Digest: aKJarPCyAn0eWz29DWmzq8R6b54=
+
+Name: messagePopup.class
+SHA1-Digest: C6PiJlDQg+OQSUSdimGNZkoJTxY=
+
+Name: about$2.class
+SHA1-Digest: MCJxYyqIMXOtX2YMtRqPaFKVhkc=
+
+Name: messagePopup$messagePopupWindowListener.class
+SHA1-Digest: +ko6qofdlFzXOU8RjtZ4gWFpWsI=
+
+Name: buddyTalk$nodeSelectionListener.class
+SHA1-Digest: 67zGjEYAUIRkA76Owmj9YmezyuA=
+
+Name: buddyTalk.class
+SHA1-Digest: lklxX734/PezdwhBNGPHyrRImk8=
+
+Name: buddyTalk$7.class
+SHA1-Digest: V8GTHOywOjQCibCGFQ756gh9ecM=
+
+Name: about$1.class
+SHA1-Digest: VcH51baCPBetoNKZk5XyEWo/X4I=
+
+Name: resources/smileyoff.png
+SHA1-Digest: VCmtV4c8qRQ8IFnHCGp17HodnbQ=
+
+Name: login.class
+SHA1-Digest: lyEJkjcngzDl3ZmcYeUHfTkP8GQ=
+
+Name: messagePopup$1.class
+SHA1-Digest: 9GZ9FckLptYOyqINwurQZ+IuleE=
+
+Name: login$3.class
+SHA1-Digest: PzzJlLpKuXu+tqROicXvdjCTPPg=
+
+Name: buddyTalk$2.class
+SHA1-Digest: 3kbzEWz2pimJi8OKCfKm9QWjQ78=
+
+Name: buddyTalk$3.class
+SHA1-Digest: wWy/0yK3LtIYKEwHq9D7TZSlYhE=
+
+Name: resources/smileyon.png
+SHA1-Digest: xvyyt4NLmnKlZsFDH6vEsOocfzI=
+
+Name: login$4.class
+SHA1-Digest: 90tt9U87Pk8RNMSqgHoq7QYqvs8=
+
+Name: login$2.class
+SHA1-Digest: CfiND4P6kk8PPaTUJsdSNf8tZPs=
+
+Name: buddyTalk$5.class
+SHA1-Digest: m51UnZgGahdG+nR+TNwQTTmmPag=
+
+Name: buddyTalk$greenIconNodeRenderer.class
+SHA1-Digest: C18GJKGbPm0gDGphHDG7zfC/p8w=
+
+Name: buddyTalk$Roster_Listener.class
+SHA1-Digest: E2SK/IUIZjxb1YBRog4W1g6/sP0=
+
+Name: buddyTalk$4.class
+SHA1-Digest: DLtIDQA8rbdSDX6fWunaxYdWSmI=
+
+Name: buddyTalk$1.class
+SHA1-Digest: kal++IZVogtZJprT2KzofbFVoIE=
+
+Name: buddyTalk$6.class
+SHA1-Digest: pm791RDFTvrBOHCwKDe03HHa5v0=
+
+Name: login$1.class
+SHA1-Digest: lymO3fN5RRkmzPsH+uX+NFN8E5E=
+
+Name: technicalDetails.class
+SHA1-Digest: E5T/FsexD20ix2Rj0U37EsBBKIQ=
+
+Name: buddyTalk$busyInLogoff.class
+SHA1-Digest: eY9OErQokXnWiGwllE2g5Hp0Cus=
+
+Name: about.class
+SHA1-Digest: un70l+bEOlxPo/ni7vN9te5YDDY=
+
+Name: login$5.class
+SHA1-Digest: 98cQVPTxio/5lRKWRiFHolZmF+M=
+
+Name: messagePopup$2.class
+SHA1-Digest: y5o2AQGNDUtsYWi8yEY8YH8fbf4=
+
+Name: login$Task2.class
+SHA1-Digest: pcpLfxeUrF/YZULBNHUKKscFBHY=
+
